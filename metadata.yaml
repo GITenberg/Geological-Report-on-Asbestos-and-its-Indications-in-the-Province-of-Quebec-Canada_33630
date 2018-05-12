@@ -1,0 +1,25 @@
+_repo: Geological-Report-on-Asbestos-and-its-Indications-in-the-Province-of-Quebec-Canada_33630
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Boyd, Lucius J.
+    gutenberg_agent_id: '36508'
+    url: http://www.gutenberg.org/2009/agents/36508
+description: ''
+gutenberg_issued: '2010-09-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33630'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Asbestos -- Québec (Province)'
+- !lcc 'TN'
+title: Geological Report on Asbestos and its Indications, in the Province of Quebec,
+  Canada
+url: http://www.gutenberg.org/ebooks/33630
